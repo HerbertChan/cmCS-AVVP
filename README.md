@@ -1,4 +1,3 @@
 # cmCS-AVVP
-cross-modal-common-specific-learning for AVVP task
-
-The work is under review, code will come soon！
+Project for ICASSP2023——CM-CS : CROSS-MODAL COMMON-SPECIFIC FEATURE LEARNING FOR AUDIOVISUAL VIDEO PARSING
+code will come soon！
